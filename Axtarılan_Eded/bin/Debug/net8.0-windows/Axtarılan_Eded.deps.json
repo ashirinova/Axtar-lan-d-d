@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Axtarılan_Eded/1.0.0": {
+        "runtime": {
+          "Axtarılan_Eded.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Axtarılan_Eded/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

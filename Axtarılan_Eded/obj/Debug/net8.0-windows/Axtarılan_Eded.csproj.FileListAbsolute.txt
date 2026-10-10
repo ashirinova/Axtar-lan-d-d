@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Axtarılan_Eded\Axtarılan_Eded\bin\Debug\net8.0-windows\Axtarılan_Eded.exe
+C:\Users\User\source\repos\Axtarılan_Eded\Axtarılan_Eded\bin\Debug\net8.0-windows\Axtarılan_Eded.deps.json
+C:\Users\User\source\repos\Axtarılan_Eded\Axtarılan_Eded\bin\Debug\net8.0-windows\Axtarılan_Eded.runtimeconfig.json
+C:\Users\User\source\repos\Axtarılan_Eded\Axtarılan_Eded\bin\Debug\net8.0-windows\Axtarılan_Eded.dll
+C:\Users\User\source\repos\Axtarılan_Eded\Axtarılan_Eded\bin\Debug\net8.0-windows\Axtarılan_Eded.pdb
+C:\Users\User\source\repos\Axtarılan_Eded\Axtarılan_Eded\obj\Debug\net8.0-windows\AxtarılanEded.Form1.resources
+C:\Users\User\source\repos\Axtarılan_Eded\Axtarılan_Eded\obj\Debug\net8.0-windows\Axtarılan_Eded.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Axtarılan_Eded\Axtarılan_Eded\obj\Debug\net8.0-windows\Axtarılan_Eded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Axtarılan_Eded\Axtarılan_Eded\obj\Debug\net8.0-windows\Axtarılan_Eded.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Axtarılan_Eded\Axtarılan_Eded\obj\Debug\net8.0-windows\Axtarılan_Eded.AssemblyInfo.cs
+C:\Users\User\source\repos\Axtarılan_Eded\Axtarılan_Eded\obj\Debug\net8.0-windows\Axtarılan_Eded.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Axtarılan_Eded\Axtarılan_Eded\obj\Debug\net8.0-windows\Axtarılan_Eded.dll
+C:\Users\User\source\repos\Axtarılan_Eded\Axtarılan_Eded\obj\Debug\net8.0-windows\refint\Axtarılan_Eded.dll
+C:\Users\User\source\repos\Axtarılan_Eded\Axtarılan_Eded\obj\Debug\net8.0-windows\Axtarılan_Eded.pdb
+C:\Users\User\source\repos\Axtarılan_Eded\Axtarılan_Eded\obj\Debug\net8.0-windows\Axtarılan_Eded.genruntimeconfig.cache
+C:\Users\User\source\repos\Axtarılan_Eded\Axtarılan_Eded\obj\Debug\net8.0-windows\ref\Axtarılan_Eded.dll
